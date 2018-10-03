@@ -1,0 +1,11 @@
+/home/mishka/Desktop/learn/hwApp/bin/Debug/netcoreapp2.1/hwApp.deps.json
+/home/mishka/Desktop/learn/hwApp/bin/Debug/netcoreapp2.1/hwApp.runtimeconfig.json
+/home/mishka/Desktop/learn/hwApp/bin/Debug/netcoreapp2.1/hwApp.runtimeconfig.dev.json
+/home/mishka/Desktop/learn/hwApp/bin/Debug/netcoreapp2.1/hwApp.dll
+/home/mishka/Desktop/learn/hwApp/bin/Debug/netcoreapp2.1/hwApp.pdb
+/home/mishka/Desktop/learn/hwApp/obj/Debug/netcoreapp2.1/hwApp.csprojAssemblyReference.cache
+/home/mishka/Desktop/learn/hwApp/obj/Debug/netcoreapp2.1/hwApp.csproj.CoreCompileInputs.cache
+/home/mishka/Desktop/learn/hwApp/obj/Debug/netcoreapp2.1/hwApp.AssemblyInfoInputs.cache
+/home/mishka/Desktop/learn/hwApp/obj/Debug/netcoreapp2.1/hwApp.AssemblyInfo.cs
+/home/mishka/Desktop/learn/hwApp/obj/Debug/netcoreapp2.1/hwApp.dll
+/home/mishka/Desktop/learn/hwApp/obj/Debug/netcoreapp2.1/hwApp.pdb
